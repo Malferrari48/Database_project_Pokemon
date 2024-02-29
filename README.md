@@ -1,5 +1,5 @@
 # Database_project_Pokemon
-This project was carried out by Francesco Malferrari (me), Lucrezia Sitta and [Lorenzo Rossi](https://github.com/SnowyCoder) for the Unimore "Databases" course.
+This project was carried out by Francesco Malferrari (me), Lucrezia Sitta and [Lorenzo Rossi](https://github.com/SnowyCoder) for the Unimore "Basi di dati" course.
 
 The result is a Python program capable of managing a Pokémon-themed database (a kind of wiki).
 
